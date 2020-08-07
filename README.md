@@ -1,6 +1,8 @@
 # Tugas besar Analisis Design Pattern 
 
-Disusun oleh :
+Bagian setiap program, terdapat pada folder src.
+
+Tugas Ini Disusun oleh :
 
 Boby Maulana Subagja	/ 10116334
 
