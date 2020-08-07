@@ -1,5 +1,4 @@
-# Design_Pattern_CCDP
-Tugas besar Analisis Design Pattern 
+# Tugas besar Analisis Design Pattern 
 
 Disusun oleh :
 Boby Maulana Subagja	/ 10116334
